@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmol Sharma</h1>
+<h1 align="center">Hi 👋, I'm Anmol Kumar Sharma</h1>
 <h3 align="center">Azure Data Engineer | Data Engineering & GenAI Enthusiast</h3>
 
 <p align="center">
@@ -27,17 +27,37 @@
 
 ## 🚀 About Me
 
-I’m an **Azure Data Engineer** with hands-on experience in building **scalable, production-grade data platforms** and **analytics solutions** on Microsoft Azure.
+Hi, I'm Anmol Kumar Sharma, an aspiring **Azure Data Engineer** passionate about building scalable and reliable data solutions.
 
-🔹 I specialize in **end-to-end data engineering** — from ingestion to analytics  
-🔹 Passionate about **GenAI, RAG systems, and intelligent data applications**  
-🔹 Strong believer in **automation, performance optimization, and clean architecture**
+I enjoy working with cloud technologies, data pipelines, data transformation, and analytics. I’m continuously improving my skills by building real-world projects and exploring modern data engineering tools.
 
-**What I work on daily:**
-- Designing **metadata-driven ETL/ELT pipelines**
-- Building **Bronze–Silver–Gold (Medallion) architectures**
-- Handling **incremental loads, CDC, and large-scale data**
-- Developing **GenAI-powered chatbots & analytics systems**
+☁️ What I Work With
+Azure: **Azure Data Factory, ADLS Gen2, Azure Databricks, Azure Synapse Analytics**
+Data Engineering: **ETL/ELT, Medallion Architecture, Dynamic Data Ingestion**
+Programming: **Python, PySpark, SQL**
+Data & Analytics: **Power BI, Excel**
+Tools: **Git, GitHub, Unity Catalog**
+
+🚀**What I'm Building**
+
+I have worked on **end-to-end Azure Data Engineering projects** involving:
+
+**Data Sources** → **ADF** → **ADLS Gen2** → **Bronze** → **Databricks/PySpark** → **Silver** → **Gold** → **Synapse Analytics**
+
+My goal is to strengthen my expertise in Azure Data Engineering and build production-oriented data pipelines that transform raw data into meaningful, analytics-ready information.
+
+📚 **Currently Learning**
+
+Advanced Azure Data Engineering
+PySpark & Databricks
+SQL optimization
+Data pipeline design
+Cloud data architecture
+🎯 Career Goal
+
+To grow as an Azure Data Engineer and contribute to projects involving **cloud-based data platforms**, **scalable ETL pipelines**, and **data analytics**.
+
+“**Learn → Build → Share → Improve** 🚀”
 
 ---
 
