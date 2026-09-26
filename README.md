@@ -57,7 +57,8 @@ PySpark & Databricks
 SQL optimization
 Data pipeline design
 Cloud data architecture
-🎯 Career Goal
+
+🎯 **Career Goal**
 
 To grow as an Azure Data Engineer and contribute to projects involving **cloud-based data platforms**, **scalable ETL pipelines**, and **data analytics**.
 
