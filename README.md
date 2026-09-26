@@ -35,8 +35,11 @@ I enjoy working with cloud technologies, data pipelines, data transformation, an
 Azure: **Azure Data Factory, ADLS Gen2, Azure Databricks, Azure Synapse Analytics**
 
 Data Engineering: **ETL/ELT, Medallion Architecture, Dynamic Data Ingestion**
+
 Programming: **Python, PySpark, SQL**
+
 Data & Analytics: **Power BI, Excel**
+
 Tools: **Git, GitHub, Unity Catalog**
 
 🚀**What I'm Building**
